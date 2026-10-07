@@ -1,0 +1,43 @@
+Maven
+---------
+1)What is maven and its advantage?
+2)What is groupId,artifactId in pom.xml?
+3)Maven lifecycle phases
+4)Maven scope in dependency
+5)Maven Repositories
+6)What is POM?
+Spring 
+----------
+1)What is a framework?
+2)What are the features of Spring framework?
+3)What is depency injection and types of dependency injection?
+4)Bean scopes and what is the default bean scope?
+5)What is autowiring and autowiring modes?
+6)Stereotype annotations and all annotations used in spring.
+7)Explain Spring MVC
+8)Annotations used in Spring MVC(@ModelAttribute,@PathVariable,@RequestMapping etc)
+9)What are the advantages of  SpringBoot?
+10)What is the advantage of Spring JDBC?
+11)Explain Spring AOP.
+12)What is webservice and types of webservice.
+13)What is REST?
+14)Explain restful webservice and http verbs.
+15)What is content negotiation in REST API?
+
+
+Spring JPA
+--------------
+1)What is ORM framework?
+2)What is Spring JPA and advantages?
+3)Annotations used in Spring JPA?
+4)Difference between CrudReposiptory and JPARepository
+5)Relationship between entity classes
+8)What are the fetch types used in Spring JPA?
+9)Hibernate caching types
+10)What is JPQL?
+11)Explain JPA,Hibernate,Spring Data JPA
+12)Annotations used in Spring JPA
+13)Cascade types in JPA
+14)N+1 problem in Spring JPA
+15)Type of Spring JPA queries
+

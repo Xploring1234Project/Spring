@@ -1,0 +1,52 @@
+1)What is database?
+
+2)Difference between DBMS and RDBMS
+
+3)What is relational model and normalization
+
+4)What are the data models?
+
+5)DML,DDL,TCL and DCL commands.
+
+6)Why do we create constraints in database table?
+
+7)What is the difference between primary key and unique key?
+
+8)What is composite key?
+
+9)SQL operators
+
+10)What is % and _ in like operator?
+
+11)What is the use of where and having clause?
+
+12)What is projection,restriction and join in SQL?
+
+13)Group by, order by clauses
+
+14)What are the type of joins?
+
+15)What is the difference between inner join and outer join?
+
+16)What is the difference between left outer and right outer?
+
+17)What is subquery?
+
+18)What are the type of subqueries?
+
+19)What is any and all operator in SQL?
+
+20)What is correlated subquery?
+
+21)What is the difference between char and varchar?
+
+22)What is varchar and varchar2?
+
+23)What is the difference between drop and truncate?
+
+24)To delete all the rows in the table,which command you will prefer,delete or truncate?why?
+
+25)What is the difference between alter and update?
+
+26)What is the differnce between scalar and aggregate functions?
+27)Query to find the nth maximum value in a column.

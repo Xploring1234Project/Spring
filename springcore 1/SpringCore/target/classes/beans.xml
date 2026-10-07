@@ -1,0 +1,52 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+       http://www.springframework.org/schema/beans
+       https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+
+
+    <!-- setter injection -->
+   <bean id="player1"  class="com.cognizant.training.Player" scope="prototype">
+        <property name="playerName" value="Dhoni"/>
+        <property name="skill" value="All rounder"/>
+        <property name="country" value="India"/>
+    </bean>
+
+
+    <bean id="player2"  class="com.cognizant.training.Player" lazy-init="true">
+        <property name="playerName" value="Kholi"/>
+        <property name="skill" value="Batsman"/>
+        <property name="country" value="India"/>
+
+    </bean>
+    <!-- constructor injection -->
+    <bean id="player3" class="com.cognizant.training.Player" >
+        <constructor-arg name="playerName" value="Surya"/>
+        <constructor-arg name="skill" value="Batsman"/>
+        <constructor-arg name="country" value="India"/>
+    </bean>
+
+    <!-- setter injection for object type -->
+    <bean id="address1" class="com.cognizant.training.Address">
+        <property name="street" value="2nd street"/>
+        <property name="city" value="Chennai"/>
+    </bean>
+    <bean id="person1" class="com.cognizant.training.Person">
+        <property name="name" value="Sai"/>
+        <property name="address" ref="address1"/>
+    </bean>
+
+    <!-- constructor injection for object type -->
+    <bean id="address2" class="com.cognizant.training.Address">
+        <constructor-arg name="street" value="1st street"/>
+        <constructor-arg name="city"  value="Coimbatore"/>
+
+
+    </bean>
+    <bean id="person2" class="com.cognizant.training.Person">
+        <constructor-arg name="name" value="Sri"/>
+        <constructor-arg name="address" ref="address2"/>
+    </bean>
+</beans>

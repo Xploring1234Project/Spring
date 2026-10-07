@@ -1,0 +1,145 @@
+
+Java
+------
+
+1)What is JDK,JRE,JVM?
+
+2)What is Java bytecode?
+
+3)Features of Java?
+
+4)Is JVM platform independent?
+
+5)What is class and object?
+
+6)What is implicit and explicit casting?
+
+7)Difference between while and do..while.
+
+8)What is encapsulation?
+
+9)Object oriented concepts.
+
+10)What is multiple inheritance?Why multiple inheritance is not supported in Java?
+
+11)What is the scope of local,instance and static variables?
+
+12)class Employee
+
+{}
+
+Emp e=new Employee();
+
+Emp e1=null;
+
+What is e and e1?
+
+13)What is overloading and overriding?
+
+14)Can you overload final method?
+
+15)What is final modifier in Java?
+
+16)What are the valid modifiers for a Java class?
+
+17)What is the difference between protected and default?
+
+18)If a method is declared as protected in the super class, what are the valid modifiers that can be used while overriding the method in the subclass?
+
+19)Similarities of abstract and interface
+
+20)Difference between abstract and interface
+
+21)What is the default access modifier for method and variable declared in an interface?
+
+22)What is interface inheritance in Java?When do we use interface inheritance?
+
+23)What is abstract method and concrete method?
+
+24)In the application development,how will you choose between abstract and interface?
+
+25)What is a constructor? Is is mandatory to define a constructor in a Java class?
+
+26)If a parameterized constructor is defined in a class, then is it mandatory to define default construcor?
+
+27)What is constructor overloading?
+
+28)What is constructor chaining?
+
+29)What is this and super keyword in java?
+
+30)What is the difference between String and StringBuffer?
+
+31)What is the differnece between StringBuffer and StringBuilder?
+
+32)What is meant by naming collision in Java?How can you resolve this?
+
+33)What is the use of packages in Java?
+
+34)What is Object class?What are the methods of Object class that can be overridden in any class?
+
+35)Why do we override equals and hashCode method?
+
+36)What is the superclass in the exception hierarchy?
+
+37)Explain Error and Exception with example.
+
+38)What is an Exception?
+
+39)Explain the difference between checked and unchecked exception with example.
+
+40)What is the use of finally block?
+
+41)What is the difference between throw and throws?
+
+42)What do you mean by propagating the exception?
+
+43)While using multiple catch blocks for a try block,do we have to follow any order for the catch blocks?
+
+44)What is nested try block?
+
+45)What is custom exception?
+
+46)Explain collection framework.
+
+47)What is autoboxing and unboxing?
+
+48)Difference between list and set.
+
+49)Difference between Hashset and Treeset.
+
+50)What is iterator?
+
+51)Explain generics in Java.
+
+52)Difference between HashMap and TreeMap.
+
+53)Iterator and ListIteraor.
+
+54)What is ClassCastException in Java?When it will be thrown?
+
+55)What is NullPointerException?When it will be thrown?
+
+56)Explain Comparator and Comparable interfaces in Java?
+
+57)List is not sorted by default. How will you sort a list?
+
+58)Explain JDBC.
+
+59)What is a driver file and type of drivers used in JDBC.
+
+60)Difference between Statement and PreparedStatment.Which is preferred and why?
+
+61)What is sql injection?
+62)What is the advantage of new Date and Time API over legacy date and calendar classes?
+63)What is byte stream and character stream?Which stream is faster?
+64)What is stream?
+65)When do we use buffered streams?
+66)What is Lambda expression in Java8?
+67)Explain the use of Stream API in Java8.
+68)Method reference in Java
+69)Write the code to find minimum and maximum value in a list using Stream API.
+70)Internal implmentation of List, Hashtable etc.
+
+ 
+ 

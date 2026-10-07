@@ -1,0 +1,45 @@
+1)Html5 features
+
+2)What is doctype declaration?
+
+3)What is difference between div and span tag?
+
+4)Html5 tags
+
+5)Semantic tags in html
+
+6)What is RWD?
+
+7)CSS3 features
+
+8)What is meta tag in html?
+
+9)What are the type of css selectors?
+
+10)What is the difference between id and class?
+
+11)What is DOM?
+
+12)What is Javascript? What is internal and external javascript?
+
+13)What is client-side validation?
+
+14)Javascript event handling.
+
+15)What is jquery and javascript?
+
+16)Explain bootstrap grid system.
+
+17)What are the two types of container used in bootstrap?
+
+18)Media query in css.
+
+19)Bootstrap Navbar,card layout.
+
+20)What is strict equality in Javascript?
+
+21)What is JSON?
+
+22)What is JSON.Stringify?
+23)Explain Storage API 
+
